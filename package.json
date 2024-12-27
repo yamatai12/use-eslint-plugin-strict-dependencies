@@ -1,0 +1,25 @@
+{
+  "name": "use-eslint-plugin-strict-dependencie",
+  "version": "1.0.0",
+  "description": "use eslint-plugin-strict-dependencie",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint ./*.ts"
+  },
+  "author": "yamatai12",
+  "license": "ISC",
+  "volta": {
+    "node": "20.11.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.57.0",
+    "@types/eslint__js": "^8.42.3",
+    "@typescript-eslint/parser": "^7.9.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-strict-dependencies": "^1.3.6",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.9.0"
+  }
+}
